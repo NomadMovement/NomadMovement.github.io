@@ -5,7 +5,8 @@
 <Div>
 <A Href="http://cnhv.co/euk" Target="_blank">Nomad Movement Site</A>
 <P>
- <A Href="https://nomadmovement.github.io/Blog/" Target="_blank">##Blog</A>
+ <A Href="https://nomadmovement.github.io/Blog/" Target="_blank">Blog</A>
+ <P>
 #DigitalNomad
   <P>
     

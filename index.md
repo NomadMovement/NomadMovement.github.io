@@ -8,7 +8,6 @@
 <P>
 #DigitalNomad
   <P>
-    NomadMovement.github.io/Nomad_Movement.jpg
     
     
 
